@@ -134,7 +134,6 @@ df4
 ```
 # Titanic.csv :
 ```
-```
 import pandas as pd
 df=pd.read_csv("titanic_dataset.csv")
 df
@@ -272,4 +271,4 @@ df5
 
 # RESULT:
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
-# OUPUT
+# OUPUT:

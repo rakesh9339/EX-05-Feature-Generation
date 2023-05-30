@@ -191,57 +191,74 @@ df5
 # OUPUT
 ## Data.csv :
 ## Initial Dataset:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/16290f4c-e02d-4047-bc72-a10754f38822)
 
 
 ##Binary Encoding:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/bc28a1a2-a501-49ba-a2a8-4bd72d5596d5)
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/6e366be0-d66e-467a-9e22-27f7d4f21b1d)
 
 
 
 
 ##Encoded Dataset:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/7e03518f-4ddd-4150-8044-e8c446a51b72)
 
 
 ##Data Scaling using MinMaxScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/e30fbb91-3e47-493f-8488-c38e7f1883fb)
 
 
 ##Data Scaling using StandardScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/f712fada-f225-41b0-8803-c1c4c271fea9)
 
 
 ##Data Scaling using MaxAbsScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/70215714-bb1d-4751-b0f7-013f5ded5e5a)
 
 
 ##Data Scaling using RobustScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/887ed8a2-7667-4117-8df5-9b486509b975)
 
 
 ##Encoding.csv :
 ##Initial Dataset:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/5ac7ec98-6510-4054-82e0-c02c0be42b2f)
 
 
 ##Binary Encoding:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/9d824f5d-e481-4a0c-ac64-c92b84e25b0f)
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/1af5d7ba-63bc-4551-b999-161dd58ac05c)
 
 
 
 
 ##Encoded Dataset:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/369686e8-cf6e-47aa-b096-d60369283a14)
 
 
 ##Data Scaling using MinMaxScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/a8aeecf7-1f5b-4853-ac59-b33cdf496438)
 
 
 ##Data Scaling using StandardScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/748e055c-4d96-4e39-8d04-112ce7e902db)
 
 
 ##Data Scaling using MaxAbsScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/27714e81-b98d-4e2a-b257-505d29ae3557)
 
 
 ##Data Scaling using RobustScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/02ce2f9e-593e-483e-b1a1-7a8b47d9445c)
 
 
 ##Titanic.csv :
 ##Initial Dataset:
-
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/a46bb7eb-9296-47de-a196-58378f79aad1)
 
 ##Data cleaning before encoding:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/aeecaad9-8688-4ad7-a4a1-171ab4c1d4d7)
 
 
 
@@ -249,24 +266,31 @@ df5
 
 
 ##Cleaned Dataset:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/d018b82e-3ab7-41ce-a58e-e6fe4cfa1d4c)
 
 
 ##Binary Encoding:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/24a4a096-53ad-4779-9f47-db564e32debe)
 
 
 ##Encoded Dataset:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/58c1b1de-8a90-4d5e-953e-4441ab5fcd9f)
 
 
 ##Data Scaling using MinMaxScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/dc8e309f-8d34-4ae9-b01a-f82d2b13a359)
 
 
 ##Data Scaling using StandardScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/6e9d06ea-c446-4a43-bf13-97a45110efb1)
 
 
 ##Data Scaling using MaxAbsScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/1fe69427-deaf-4b56-a2da-d130b27c11dd)
 
 
 ##Data Scaling using RobustScaler:
+![image](https://github.com/rakesh9339/EX-05-Feature-Generation/assets/121115650/92057105-f490-47d0-94e0-65119c95d351)
 
 
 # RESULT:

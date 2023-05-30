@@ -271,4 +271,4 @@ df5
 
 # RESULT:
 Feature Generation process and Feature Scaling process is applied to the given data frames sucessfully.
-# OUPUT:
+

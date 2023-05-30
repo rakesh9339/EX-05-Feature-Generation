@@ -24,6 +24,7 @@ Save the data to the file
 Program Developed: Rakesh J.S
 Register number:212222230115
 ```
+```
 Data.csv :
 import pandas as pd
 df=pd.read_csv("data.csv")
@@ -132,6 +133,7 @@ df4=pd.DataFrame(sc3.fit_transform(df1),columns=['id', 'bin_1', 'bin_2', 'nom_0'
 df4
 ```
 # Titanic.csv :
+```
 ```
 import pandas as pd
 df=pd.read_csv("titanic_dataset.csv")
